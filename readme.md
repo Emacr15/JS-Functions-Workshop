@@ -2,7 +2,6 @@
 
 ![Resultado](/images/result.png)
 
-Autor: Eduardo Oviedo Blanco
 
 Para usar este taller efectivamente, clone el código en su ambiente local.
 ```
